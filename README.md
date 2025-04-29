@@ -1,5 +1,5 @@
 # Kairav Roshan Sanghvi
-Welcome to my personal portfolio! I’m a masters student studying Data science. I have 6 months internship experience as a Machine Learning Intern. I have built many projects (links to some have been pinned to my Github profile). 
+Welcome to my personal portfolio! I’m a masters student studying Data science. I have just finished a 1 year long internship as a Machine Learning Intern. I have built many projects (links to some have been pinned to my Github profile). 
 
 ## About Me
 I have experience in Python, SQL, Machine Learning and Data visualisation. 
